@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\Dropbox\Bootcamp Java\UD5\.metadata\.plugins\org.eclipse.jdt.core
+2437389509.index
+3253170493.index
+3862998099.index
+2135555561.index
+3456523837.index
